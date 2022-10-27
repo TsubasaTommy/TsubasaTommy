@@ -1,4 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5FY6WL)
 <div align="center">
 <img src="https://i.gifer.com/6Szl.gif" align="center" style="width: 100%" />
 </div>  
@@ -14,8 +13,9 @@
   
 
 - ⚡ I want to helpful for people ⚡  
-  
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5FY6WL)
+  
 <br/>  
 
 
@@ -62,7 +62,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
@@ -75,7 +74,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
@@ -101,4 +100,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
